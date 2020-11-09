@@ -1,10 +1,10 @@
 ### Hi there 👋. I'm Kaleb Ugalde
 
-### I'm a self taught Developer
+### I like to program
 
 - 🔭 I’m currently working on a book generator.
 - 🌱 I’m currently learning full stack web development, machine learning, and robotics!
-- 👯 I’m looking to collaborate with other developers
+- 😁 I’m looking to improve and expand my skills
 - 🥅 2020 Goals: Finish projects 😃
 
 <br/>
