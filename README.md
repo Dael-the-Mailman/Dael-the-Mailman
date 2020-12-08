@@ -2,10 +2,13 @@
 
 ### I like to program
 
-- 🔭 I’m currently working on a book generator.
+- 🔭 I’m currently working on a music generator
 - 🌱 I’m currently learning full stack web development, machine learning, and robotics!
 - 😁 I’m looking to improve and expand my skills
 - 🥅 2020 Goals: Finish projects 😃
+
+Finished Projects 2020:
+- 📚 Book generator
 
 <br/>
 
@@ -27,3 +30,4 @@
 
 ### Contact Me
 Gmail 📧: kalebugalde@gmail.com
+Website 🖥: Coming soon
