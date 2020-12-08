@@ -30,4 +30,5 @@ Finished Projects 2020:
 
 ### Contact Me
 Gmail 📧: kalebugalde@gmail.com
+
 Website 🖥: Coming soon
