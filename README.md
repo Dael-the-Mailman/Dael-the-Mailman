@@ -5,7 +5,9 @@
 - 🔭 I’m currently working on a music generator
 - 🌱 I’m currently learning full stack web development, machine learning, and robotics!
 - 😁 I’m looking to improve and expand my skills
-- 🥅 2020 Goals: Finish projects 😃
+- 🥅 2021 Goals: 
+  - Finish projects 😃
+  - Get a job??? 🤔
 
 Finished Projects 2020:
 - 📚 Book generator
