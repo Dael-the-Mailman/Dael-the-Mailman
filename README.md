@@ -1,16 +1,27 @@
-### Hi there 👋. I'm Kaleb Ugalde
+# Hi there 👋. I'm Kaleb Ugalde
 
-### I like to program
+## I like to program
 
-- 🔭 I’m currently working on a music generator
-- 🌱 I’m currently learning full stack web development, machine learning, and robotics!
+About Me:
 - 😁 I’m looking to improve and expand my skills
-- 🥅 2021 Goals: 
+- 📚 I'm currently interested in machine learning and robotics
+- 👨‍🎓 Amazon Future Engineering Scholar
+- 👨‍🏭 Have experience as both a lead programmer and programming mentor for local robotics teams
+- 🥅 2022 Goals: 
   - Finish projects 😃
   - Get a job??? 🤔
 
-Finished Projects 2020:
+Finished Projects:
 - 📚 Book generator
+- 🤖 Indigo Dynamics Robot
+- 🥐 French Blog
+
+Ongoing Projects:
+- 🛣 Pure Pursuit Algorithm Implementation
+- 🏆 Kaggle Competitions
+- ♟ Chess Engine
+- ❌ Tic Tac Toe Engine
+- 🕸 Personal Website
 
 <br/>
 
@@ -32,3 +43,5 @@ Finished Projects 2020:
 Gmail 📧: kalebugalde@gmail.com
 
 Website 🖥: Coming soon
+
+Linkedin 🖇: Coming soon
