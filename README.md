@@ -22,6 +22,7 @@ Ongoing Projects:
 - ♟ Chess Engine
 - ❌ Tic Tac Toe Engine
 - 🕸 Personal Website
+- 🧩 Sudoku Wave Collapse Solver
 
 <br/>
 
@@ -44,4 +45,4 @@ Gmail 📧: kalebugalde@gmail.com
 
 Website 🖥: Coming soon
 
-Linkedin 🖇: Coming soon
+Linkedin 🖇: https://www.linkedin.com/in/kaleb-josh-ugalde-8244a2238/
