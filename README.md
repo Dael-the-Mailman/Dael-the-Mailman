@@ -17,7 +17,6 @@ Finished Projects:
 - 🥐 French Blog
 
 Ongoing Projects:
-- 🛣 Pure Pursuit Algorithm Implementation
 - 🏆 Kaggle Competitions
 - ♟ Chess Engine
 - ❌ Tic Tac Toe Engine
