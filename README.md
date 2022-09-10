@@ -15,9 +15,9 @@ Finished Projects:
 - 📚 Book generator
 - 🤖 Indigo Dynamics Robot
 - 🥐 French Blog
+- 🏆 Kaggle Competitions
 
 Ongoing Projects:
-- 🏆 Kaggle Competitions
 - ♟ Chess Engine
 - ❌ Tic Tac Toe Engine
 - 🕸 Personal Website
