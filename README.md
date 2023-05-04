@@ -17,12 +17,6 @@ Finished Projects:
 - 🥐 French Blog
 - 🏆 Kaggle Competitions
 
-Ongoing Projects:
-- ♟ Chess Engine
-- ❌ Tic Tac Toe Engine
-- 🕸 Personal Website
-- 🧩 Sudoku Wave Collapse Solver
-
 <br/>
 
 ### Languages and Tools I Know:
