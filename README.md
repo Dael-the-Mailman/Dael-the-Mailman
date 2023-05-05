@@ -3,8 +3,8 @@
 ## Mechanical Engineering Major with a Specialization in Controls and Robotics @ UCSD who also likes to program
 
 About Me:
-- 😁 
-- 📚 I'm currently interested in machine learning and robotics
+- 😁 Self-taught programmer
+- 📚 Currently interested in machine learning and robotics
 - 👨‍🎓 Amazon Future Engineering Scholar
 - 👨‍🏭 Have experience as both a lead programmer and programming mentor for local robotics teams
 - 🥅 2023 Goals: 
@@ -16,6 +16,9 @@ Finished Projects:
 - [AMEX Default Prediction 💳](https://github.com/Dael-the-Mailman/ML-Capstone-Project)
 - [Neural Networks From Scratch 🧠](https://github.com/Dael-the-Mailman/neural-net-from-scratch)
 - [Indigo Dynamics Competition Robot 🤖](https://github.com/Dael-the-Mailman/Indigo-Dynamics-2020)
+
+## Certifications
+- [UCSD Extended Studies Machine Learning Engineering Bootcamp](https://www.credential.net/9a201491-412b-456c-9d1b-f50ef7794d72#gs.x9e68h)
 
 <br/>
 
