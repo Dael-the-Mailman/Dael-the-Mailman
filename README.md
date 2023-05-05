@@ -3,33 +3,35 @@
 ## I like to program
 
 About Me:
-- 😁 I’m looking to improve and expand my skills
+- 😁 
 - 📚 I'm currently interested in machine learning and robotics
-- 👨‍🎓 Amazon Future Engineering Scholar
+- 👨‍🎓 MechE with a Specialization in Controls and Robotics @ UCSD | Amazon Future Engineering Scholar
 - 👨‍🏭 Have experience as both a lead programmer and programming mentor for local robotics teams
-- 🥅 2022 Goals: 
-  - Finish projects 😃
-  - Get a job??? 🤔
+- 🥅 2023 Goals: 
+  - Learn more about AI 🤖 and Cloud Technologies ☁
+  - Start applying to jobs 💼
 
 Finished Projects:
-- 📚 Book generator
-- 🤖 Indigo Dynamics Robot
-- 🥐 French Blog
-- 🏆 Kaggle Competitions
+- Driving Roster Automation 🚗
+- [AMEX Default Prediction 💳](https://github.com/Dael-the-Mailman/ML-Capstone-Project)
+- [Neural Networks From Scratch 🧠](https://github.com/Dael-the-Mailman/neural-net-from-scratch)
+- [Indigo Dynamics Competition Robot 🤖](https://github.com/Dael-the-Mailman/Indigo-Dynamics-2020)
 
 <br/>
 
 ### Languages and Tools I Know:
 
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
+<img align="left" alt="Jupyter" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png"/>
+<img align="left" alt="C++" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"/>
+<img align="left" alt="Docker" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"/>
+<img align="left" alt="Tensorflow" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"/>
+<img align="left" alt="Pytorch" width="40px" src="https://pytorch.org/assets/images/pytorch-logo.png"/>
+<img align="left" alt="Matlab" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png"/>
+<img align="left" alt="Pandas" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png"/>
+<img align="left" alt="Amazon Web Services" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1920px-Amazon_Web_Services_Logo.svg.png"/>
+<img align="left" alt="Google Cloud Platform" width="40px" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/social-icon-google-cloud-1200-630_cH7dZlP.png"/>
+
 
 <br/>
 
