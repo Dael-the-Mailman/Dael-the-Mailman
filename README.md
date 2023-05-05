@@ -1,11 +1,11 @@
 # Hi there 👋. I'm Kaleb Ugalde
 
-## I like to program
+## Mechanical Engineering Major with a Specialization in Controls and Robotics @ UCSD who also likes to program
 
 About Me:
 - 😁 
 - 📚 I'm currently interested in machine learning and robotics
-- 👨‍🎓 MechE with a Specialization in Controls and Robotics @ UCSD | Amazon Future Engineering Scholar
+- 👨‍🎓 Amazon Future Engineering Scholar
 - 👨‍🏭 Have experience as both a lead programmer and programming mentor for local robotics teams
 - 🥅 2023 Goals: 
   - Learn more about AI 🤖 and Cloud Technologies ☁
