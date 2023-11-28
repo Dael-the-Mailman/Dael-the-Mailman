@@ -1,6 +1,6 @@
 # Hi there 👋. I'm Kaleb Ugalde
 
-## Mechanical Engineering Major with a Specialization in Controls and Robotics @ UCSD who also likes to program
+## Mechanical Engineering Major with a Specialization in Controls and Robotics and Mathematics Minor @ UCSD who also likes to program
 
 About Me:
 - 😁 Self-taught programmer
