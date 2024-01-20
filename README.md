@@ -7,12 +7,13 @@ About Me:
 - 📚 Currently interested in machine learning and robotics
 - 👨‍🎓 Amazon Future Engineering Scholar
 - 👨‍🏭 Have experience as both a lead programmer and programming mentor for local robotics teams
-- 🥅 2023 Goals: 
-  - Learn more about AI 🤖 and Cloud Technologies ☁
-  - Start applying to jobs 💼
+- 🥅 2024 Goals: 
+  - Learn more about control theory 🎮
+  - Apply ML knowledge to rocketry 🚀
+  - Build more personal projects 👷‍♂️
 
 Finished Projects:
-- Driving Roster Automation 🚗
+- [Driving Roster Automation 🚗](https://github.com/c5k1m/driving-roster-site)
 - [AMEX Default Prediction 💳](https://github.com/Dael-the-Mailman/ML-Capstone-Project)
 - [Neural Networks From Scratch 🧠](https://github.com/Dael-the-Mailman/neural-net-from-scratch)
 - [Indigo Dynamics Competition Robot 🤖](https://github.com/Dael-the-Mailman/Indigo-Dynamics-2020)
@@ -41,6 +42,6 @@ Finished Projects:
 ### Contact Me
 Gmail 📧: kalebugalde@gmail.com
 
-Website 🖥: https://kaleb-ugalde-portfolio.onrender.com/
+Website 🖥: 🚧 Remodeling 🚧
 
 Linkedin 🖇: https://www.linkedin.com/in/kaleb-josh-ugalde-8244a2238/
